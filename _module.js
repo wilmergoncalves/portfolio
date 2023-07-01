@@ -4208,7 +4208,7 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Theme",
+				title: "My Portfolio",
 				description: "Cupidatat est tempor"
 			}
 		});
@@ -4233,10 +4233,10 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Theme",
+				title: "My Portfolio",
 				description: {
-					"html": "<p>Passionate svelte enthusiast with a knack for making web apps and mobile game apps.</p>",
-					"markdown": "Passionate svelte enthusiast with a knack for making web apps and mobile game apps.\n\n"
+					"html": "<p>Passionate enthusiast with a knack for making web apps and mobile game apps.</p>",
+					"markdown": "Passionate enthusiast with a knack for making web apps and mobile game apps.\n\n"
 				},
 				portrait: {
 					"image": {
@@ -4289,7 +4289,7 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Theme",
+				title: "My Portfolio",
 				description: "Cupidatat est tempor",
 				content: {
 					"html": "<h2>Welcome to my portfolio</h2><p>This is some copy to help you get to know about my interests, experience, and top projects. I may share a few personal things here too.</p>",
@@ -4318,7 +4318,7 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Theme",
+				title: "My Portfolio",
 				description: "Cupidatat est tempor",
 				heading: "Featured Projects",
 				items: [
@@ -4387,7 +4387,7 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Theme",
+				title: "My Portfolio",
 				description: {
 					"html": "<p>Some technologies i’ve been using lately:</p>",
 					"markdown": "Some technologies i’ve been using lately:\n\n"
@@ -4431,7 +4431,7 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Theme",
+				title: "My Portfolio",
 				description: "Cupidatat est tempor",
 				heading: "Get in touch",
 				email: "someone@somewhere.com",
@@ -4476,7 +4476,7 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Theme",
+				title: "My Portfolio",
 				description: "Cupidatat est tempor"
 			}
 		});

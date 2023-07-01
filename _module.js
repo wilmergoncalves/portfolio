@@ -4247,7 +4247,7 @@ function create_fragment$7(ctx) {
 					},
 					"variation": "circle"
 				},
-				name: "",
+				name: "My Portfolio",
 				social_links: [
 					{
 						"icon": "mdi:twitter",
